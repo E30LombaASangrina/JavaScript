@@ -1,0 +1,24 @@
+h1{
+	color:darkred;
+	margin-top: 1.5em;
+}
+
+hr{
+	color:skyblue;
+}
+
+
+h2{
+	color: salmon;
+}
+
+body{
+	margin: 2cm;
+	font-family: sans-serif;
+}
+
+
+code{
+	font-size: 2rem;
+	color: lavenderblush;
+}
